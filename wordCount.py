@@ -2,6 +2,7 @@
 
 # CS 4375 - Theory of Operating Systems
 # Instructor: Dr. Eric Freudenthal
+
 # Description of program: Takes an input file, formats it and removes punctuation, and then creates a dictionary
 # with words found in the document and number of repetition of the word.
 
